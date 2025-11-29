@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "name": "Hansika", "email": "hansika@example.com", "password": "123456" }
+  ],
+  "courses": [
+    { "id": 1, "title": "DBMS", "description": "ER models, SQL, normalization", "image": "https://via.placeholder.com/400x200?text=DBMS" },
+    { "id": 2, "title": "Frontend Development", "description": "HTML, CSS, JS, React", "image": "https://via.placeholder.com/400x200?text=Frontend" },
+    { "id": 3, "title": "Java Programming", "description": "OOP, collections", "image": "https://via.placeholder.com/400x200?text=Java" }
+  ],
+  "enrollments": [],
+  "assignments": []
+}
